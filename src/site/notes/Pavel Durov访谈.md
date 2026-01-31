@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pavel-durov/","title":"Pavel Durov 与 Lex Fridman 访谈总结 #482","tags":["gardenEntry"]}
 ---
 
+
 ---
 # #482 – Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature
 
