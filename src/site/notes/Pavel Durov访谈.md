@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pavel-durov/","title":"Pavel Durov 与 Lex Fridman 访谈总结 #482","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/pavel-durov/","title":"Pavel Durov 与 Lex Fridman 访谈总结 #482"}
 ---
 
 
