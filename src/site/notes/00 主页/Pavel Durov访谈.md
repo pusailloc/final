@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00/pavel-durov/","title":"Pavel Durov 与 Lex Fridman 访谈总结 #482"}
+{"dg-publish":true,"dg-permalink":"pavel-durov-interview","permalink":"/pavel-durov-interview/","title":"Pavel Durov 与 Lex Fridman 访谈总结 #482"}
 ---
 
 
