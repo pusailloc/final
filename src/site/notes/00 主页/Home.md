@@ -14,19 +14,13 @@
 
 ## 🗺️ 探索地图
 
-> [!example] 📐 **数学与空间图论**
-> 这里的笔记主要关于 **Spatial Graph Theory** 和 **Knot Theory**。
-> - [[空间图理论大纲\|空间图理论大纲]]
-> - [[Mastering Spatial Graphs in Knot Theory\|Mastering Spatial Graphs in Knot Theory]]
-> - [[Conway-Gordon-Sachs 定理\|Conway-Gordon-Sachs 定理]]
-> - [[A Short Proof of the Generalized Conway–Gordon–Sachs Theorem\|A Short Proof of the Generalized Conway–Gordon–Sachs Theorem]]
-> - [[Linking number (缠绕数)\|Linking number (缠绕数)]]
-> - [[Topological Invariants-Linking Number & Arf Invariant\|Topological Invariants-Linking Number & Arf Invariant]]
+> [!example] 📐 **数学**
+> 这里的笔记主要关于一些我学习工作的思考
+
 
 > [!info] 🎓 **学习与研究**
-> - [[什么是 cycle,Hamiltonian cycle\|什么是 cycle,Hamiltonian cycle]] & [[Hamiltonian Cycle 必要条件解释\|Hamiltonian Cycle 必要条件解释]]
-> - [[什么是子图、edge-disjoint cycles\|什么是子图、edge-disjoint cycles]]
-> - [[Linking Number via Seifert Surface\|Linking Number via Seifert Surface]]
+> [[00 主页/自律在神经层面其实是长期最低成本路径\|自律在神经层面其实是长期最低成本路径]]
+
 
 
 > [!check] 📋 **个人规划**
